@@ -1,0 +1,30 @@
+.home-area{
+    background-image: url(images/donation4.jpg);
+    height: 600px;
+    background-size: cover;
+}
+.dark-overlay{
+    background-color:rgba(0, 0, 0, 0.433);
+    height: 600px;
+}
+.home-content{
+    text-align: center;
+    padding: 100px;
+    color: burlywood;
+    font-weight: 700;
+}
+.home-text h1{
+    color: beige;
+    padding-bottom: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange,burlywood);
+    padding: 13px;
+    font-weight: 700;
+    border-radius: 5px;
+    
+    
+}
